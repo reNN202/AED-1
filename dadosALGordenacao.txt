@@ -1,0 +1,73 @@
+DADOS QUICKSORT:
+
+QuickSort - n = 20000: 0.00 segundos
+QuickSort - n = 40000: 0.02 segundos
+QuickSort - n = 60000: 0.01 segundos
+QuickSort - n = 80000: 0.04 segundos
+QuickSort - n = 100000: 0.04 segundos
+QuickSort - n = 120000: 0.04 segundos
+QuickSort - n = 140000: 0.04 segundos
+QuickSort - n = 160000: 0.04 segundos
+QuickSort - n = 180000: 0.05 segundos
+QuickSort - n = 200000: 0.05 segundos
+QuickSort - n = 220000: 0.06 segundos
+QuickSort - n = 240000: 0.06 segundos
+QuickSort - n = 260000: 0.06 segundos
+QuickSort - n = 280000: 0.07 segundos
+QuickSort - n = 300000: 0.07 segundos
+QuickSort - n = 320000: 0.09 segundos
+QuickSort - n = 340000: 0.08 segundos
+QuickSort - n = 360000: 0.10 segundos
+QuickSort - n = 380000: 0.10 segundos
+QuickSort - n = 400000: 0.10 segundos
+
+DADOS MERGESORT:
+
+MergeSort - n = 20000: 0.01 segundos
+MergeSort - n = 40000: 0.01 segundos
+MergeSort - n = 60000: 0.03 segundos
+MergeSort - n = 80000: 0.05 segundos
+MergeSort - n = 100000: 0.06 segundos
+MergeSort - n = 120000: 0.07 segundos
+MergeSort - n = 140000: 0.08 segundos
+MergeSort - n = 160000: 0.07 segundos
+MergeSort - n = 180000: 0.08 segundos
+MergeSort - n = 200000: 0.09 segundos
+MergeSort - n = 220000: 0.10 segundos
+MergeSort - n = 240000: 0.12 segundos
+MergeSort - n = 260000: 0.13 segundos
+MergeSort - n = 280000: 0.13 segundos
+MergeSort - n = 300000: 0.15 segundos
+MergeSort - n = 320000: 0.15 segundos
+MergeSort - n = 340000: 0.17 segundos
+MergeSort - n = 360000: 0.17 segundos
+MergeSort - n = 380000: 0.19 segundos
+MergeSort - n = 400000: 0.19 segundos
+
+DADOS INSERTIONSORT:
+
+InsertionSort - n = 20000: 0.42 segundos
+InsertionSort - n = 40000: 1.69 segundos
+InsertionSort - n = 60000: 3.81 segundos
+InsertionSort - n = 80000: 6.71 segundos
+InsertionSort - n = 100000: 10.55 segundos
+InsertionSort - n = 120000: 15.20 segundos
+InsertionSort - n = 140000: 20.70 segundos
+InsertionSort - n = 160000: 27.05 segundos
+InsertionSort - n = 180000: 34.27 segundos
+InsertionSort - n = 200000: 42.48 segundos
+InsertionSort - n = 220000: 71.75 segundos
+InsertionSort - n = 240000: 63.09 segundos
+InsertionSort - n = 260000: 70.97 segundos
+InsertionSort - n = 280000: 102.26 segundos
+InsertionSort - n = 300000: 119.33 segundos
+InsertionSort - n = 320000: 136.48 segundos
+InsertionSort - n = 340000: 156.63 segundos
+InsertionSort - n = 360000: 164.65 segundos
+InsertionSort - n = 380000: 182.12 segundos
+InsertionSort - n = 400000: 185.69 segundos
+
+
+
+
+
